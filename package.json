@@ -1,7 +1,7 @@
 {
-  "name": "jademailer",
+  "name": "html-mailer",
   "version": "1.0.0",
-  "description": "quequeña libreria para el envio de emails renderizados de html con formato jade",
+  "description": "small library for sending emails rendered from html files",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/DavidPineda/jademailer#readme",
   "dependencies": {
+    "html2jade": "^0.8.6",
     "jade": "^1.11.0",
     "nodemailer": "^4.4.1"
   }
