@@ -1,0 +1,28 @@
+{
+  "name": "jademailer",
+  "version": "1.0.0",
+  "description": "quequeña libreria para el envio de emails renderizados de html con formato jade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidPineda/jademailer.git"
+  },
+  "keywords": [
+    "email",
+    "jade",
+    "nodemailer"
+  ],
+  "author": "David Pineda <davidpineda1003@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidPineda/jademailer/issues"
+  },
+  "homepage": "https://github.com/DavidPineda/jademailer#readme",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "nodemailer": "^4.4.1"
+  }
+}
