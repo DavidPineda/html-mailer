@@ -1,6 +1,6 @@
 {
   "name": "html-mailer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "small library for sending emails rendered from html files",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DavidPineda/jademailer.git"
+    "url": "git+https://github.com/DavidPineda/html-mailer.git"
   },
   "keywords": [
     "email",
@@ -18,9 +18,9 @@
   "author": "David Pineda <davidpineda1003@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DavidPineda/jademailer/issues"
+    "url": "https://github.com/DavidPineda/html-mailer/issues"
   },
-  "homepage": "https://github.com/DavidPineda/jademailer#readme",
+  "homepage": "https://github.com/DavidPineda/html-mailer#readme",
   "dependencies": {
     "html2jade": "^0.8.6",
     "jade": "^1.11.0",
